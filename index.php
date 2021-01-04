@@ -37,6 +37,7 @@
 </head>
 
 <body>
+    
     <?php include "template-parts/loader.php"; ?>
     <?php include "header.php"; ?>
     <?php include "template-parts/banner.php"; ?>
